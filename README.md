@@ -29,6 +29,8 @@ First, let's solder the bits and bobs together. You will need to make 6 connecti
 |Pin 9|5V|VCC|
 
 The image below shows you which pin is which. Keep in mind this is taken from behind (the side the soldering takes place on).
+
+
 ![alt text](https://www.aggsoft.com/rs232-pinout-cable/images/9-pinout.gif)
 
 # Code
