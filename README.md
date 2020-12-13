@@ -4,16 +4,16 @@ Below you can find all the instructions you need to make your own USB adaptor fo
 
 # Bill of materials
 
-**Arduino Nano Board**
+**Arduino Nano Board**  
 You will need an arduino board of your own choosing. I went with arduino nano due to their size and price. You can find the ones I've used [here](https://www.amazon.co.uk/gp/product/B07FQBQ4Z6/ref=ppx_yo_dt_b_asin_title_o00_s00).
 
-**DB9 Connector**
+**DB9 Connector**  
 The G923 pedals have a DB9 Connector (male) on their end. Since I didn't want an intrusive mode, I had to be able to connect in line with this one. As such, you will need to get some DB9 (female) connectors. I've got mine from [here](https://www.amazon.co.uk/gp/product/B07LCN1VBM/ref=ppx_yo_dt_b_asin_title_o01_s01).
 
-**Cables**
-You will need one Micro USB to USB A cable, can be even USB 2 as there isn't a lot of data going through.
+**Cables**  
+You will need one Micro USB to USB A cable, can even be USB 2 as there isn't a lot of data going through.
 
-**Tools**
+**Tools**  
 You will need a soldering gun, some cables to run the connections, solder, flux and some insulating tape, preferably some shrink wrap too.
 
 # Assembly
