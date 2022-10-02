@@ -5,7 +5,7 @@ int UPDATE_FREQUENCY_HZ = 50;
  
 Joystick_ Joystick(
   JOYSTICK_DEFAULT_REPORT_ID, // Indicates the joystick's HID report ID (0x03)
-  JOYSTICK_TYPE_MULTI_AXIS, // Multi-axis Controller (0x08)
+  JOYSTICK_TYPE_GAMEPAD, // Multi-axis Controller (0x08)
   0, // Indicates how many buttons will be available on the joystick.
   0, // Indicates how many hat switches will be available on the joystick.
   false, // Indicates if the X Axis is available on the joystick.
